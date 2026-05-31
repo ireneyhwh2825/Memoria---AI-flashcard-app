@@ -28,3 +28,8 @@ An intelligent AI-powered flashcard web app that transforms your study notes int
 ## Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/0cecb4e0-998a-4792-887e-b169d20bf1de" />
+
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/4a66ff54-91d3-4d15-bbbe-bddcd9129f35" />
+
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/1080c736-719b-4196-8ca1-611e892eb909" />
+
